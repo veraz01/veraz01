@@ -31,3 +31,5 @@
 10.10.33.22 - - [18/Dec/2019:10:38:24 +0100] "GET / HTTP/1.1" 200 6496 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
 10.10.33.22 - - [18/Dec/2019:11:07:35 +0100] "GET / HTTP/1.1" 200 6471 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
 10.10.33.22 - - [18/Dec/2019:11:07:35 +0100] "GET /assets/images/taste_bug.ygif HTTP/1.1" 404 226 "http://scavenger/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
+10.10.33.22 - - [18/Dec/2019:11:11:57 +0100] "GET / HTTP/1.1" 200 6480 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
+10.10.33.22 - - [18/Dec/2019:11:11:57 +0100] "GET /assets/images/taste_bug.ygif HTTP/1.1" 404 226 "http://scavenger/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
