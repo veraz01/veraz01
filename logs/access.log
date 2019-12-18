@@ -29,3 +29,5 @@
 10.10.33.22 - - [17/Dec/2019:16:24:17 +0100] "GET /assets/images/home_page_back.jpg HTTP/1.1" 200 188539 "http://scavenger/assets/stylesheets/main.css" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
 ::1 - - [17/Dec/2019:16:24:23 +0100] "OPTIONS * HTTP/1.0" 200 - "-" "Apache/2.4.6 (CentOS) SVN/1.7.14 mod_perl/2.0.10 Perl/v5.16.3 (internal dummy connection)"
 10.10.33.22 - - [18/Dec/2019:10:38:24 +0100] "GET / HTTP/1.1" 200 6496 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
+10.10.33.22 - - [18/Dec/2019:11:07:35 +0100] "GET / HTTP/1.1" 200 6471 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
+10.10.33.22 - - [18/Dec/2019:11:07:35 +0100] "GET /assets/images/taste_bug.ygif HTTP/1.1" 404 226 "http://scavenger/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36"
